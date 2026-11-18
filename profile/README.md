@@ -1,6 +1,6 @@
 ## Your data lives on your devices. Apps just plug in.
 
-**UUOB** links your own devices, like your Mac, your phone or a Raspberry Pi, into one private network.
+**UUOB** links your own devices, like your Mac, your phone or a home server, into one private network.
 Apps keep their data there instead of on some company's servers.
 
 - **No accounts, no cloud.** Your data is stored only on your devices.
@@ -15,6 +15,6 @@ Apps keep their data there instead of on some company's servers.
 | **[Calendar](https://github.com/UUOB/calendar)** | Your calendars, plus any calendar link you subscribe to (Google, holidays). |
 | **[Photos](https://github.com/UUOB/photos)** | Photos and videos, without a cloud. |
 
-For **Mac**, **Android**, **Linux** and the **Raspberry Pi**.
+For **Mac**, **Android** and **Linux**.
 
 **[Get started](https://github.com/UUOB/uuob/blob/main/docs/setup.md)** · **[Downloads](https://github.com/jachymri/uuob-releases)** · Open source (AGPL-3.0)
